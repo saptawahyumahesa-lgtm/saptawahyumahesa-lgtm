@@ -16,4 +16,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Statistik GitHub Kamu](https://github-readme-stats.vercel.app/api?username=saptawahyumahesa-lgmtshow_icons=true&theme=radial)
+![Statistik GitHub Kamu](https://github-readme-stats.vercel.app/api?username=saptawahyumahesa-lgtmshow_icons=true&theme=radial)
