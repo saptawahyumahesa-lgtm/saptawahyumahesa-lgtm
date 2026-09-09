@@ -15,5 +15,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Statistik GitHub Esa](https://github-readme-stats.vercel.app/api?username=saptawahyumahesa-lgtm&show_icons=true&theme=radial)
+### 🟪 Statistik GitHub
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saptawahyumahesa-lgtm&theme=tokyonight" width="100%" />
+</p>
