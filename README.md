@@ -1,14 +1,16 @@
 <div align="center">
-  <!-- Panggil nama file gambar yang di-upload tadi -->
-  <img src="download%20(3).jpg" width="100%" alt="Header Banner" />
-  <br />
-Hi there, I'm Esa 👋
+  <!-- Header Banner -->
+  <img src="download (6).jpg" width="100%" alt="Header Banner" />
+  <br /><br />
+
+  # Hi there, I'm Esa 👋
+</div>
 
 ### 🚀 About Me
-- 🔭 Saat ini sedang mengerjakan 
-- 🌱 Saat ini sedang mempelajari 
-- 💬 Tanya saya tentang
-- 📫 Cara menghubungi saya: 
+- 🔭 Saat ini sedang mengerjakan: **[Nama Project/Fokus]**
+- 🌱 Saat ini sedang mempelajari: **[Teknologi/Framework]**
+- 💬 Tanya saya tentang: **[Keahlian Kamu]**
+- 📫 Cara menghubungi saya: **[Email / LinkedIn]**
 
 ---
 
@@ -21,5 +23,5 @@ Hi there, I'm Esa 👋
 
 ### 🟪 Statistik GitHub
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saptawahyumahesa-lgtm&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saptawahyumahesa-lgtm&theme=tokyonight" width="100%" alt="Statistik GitHub Esa" />
 </p>
