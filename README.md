@@ -1,4 +1,8 @@
-# Hi there, I'm Esa 👋
+<div align="center">
+  <!-- Panggil nama file gambar yang di-upload tadi -->
+  <img src="download%20(3).jpg" width="100%" alt="Header Banner" />
+  <br />
+Hi there, I'm Esa 👋
 
 ### 🚀 About Me
 - 🔭 Saat ini sedang mengerjakan 
