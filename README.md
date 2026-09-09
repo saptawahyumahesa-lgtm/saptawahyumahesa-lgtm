@@ -1,10 +1,10 @@
 # Hi there, I'm Esa 👋
 
 ### 🚀 About Me
-- 🔭 Saat ini sedang mengerjakan **[Nama Project/Fokus]**
-- 🌱 Saat ini sedang mempelajari **[Teknologi/Framework]**
-- 💬 Tanya saya tentang **[Keahlian Kamu, misal: React, Python, UI/UX]**
-- 📫 Cara menghubungi saya: **[Email / LinkedIn]**
+- 🔭 Saat ini sedang mengerjakan 
+- 🌱 Saat ini sedang mempelajari 
+- 💬 Tanya saya tentang
+- 📫 Cara menghubungi saya: 
 
 ---
 
