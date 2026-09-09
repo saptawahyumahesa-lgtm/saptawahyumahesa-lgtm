@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Esa 👋
 
-<!--
-**saptawahyumahesa-lgtm/saptawahyumahesa-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 Saat ini sedang mengerjakan **[Nama Project/Fokus]**
+- 🌱 Saat ini sedang mempelajari **[Teknologi/Framework]**
+- 💬 Tanya saya tentang **[Keahlian Kamu, misal: React, Python, UI/UX]**
+- 📫 Cara menghubungi saya: **[Email / LinkedIn]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript, Python, HTML/CSS
+- **Frameworks:** React, Next.js, TailwindCSS
+- **Tools:** Git, VS Code, Figma
+
+---
+
+### 📊 GitHub Stats
+![Statistik GitHub Kamu](https://github-readme-stats.vercel.app/api?username=saptawahyumahesa-lgmtshow_icons=true&theme=radial)
